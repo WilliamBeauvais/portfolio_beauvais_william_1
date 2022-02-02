@@ -10,15 +10,15 @@
 
 ## Date de votre visite
 
-## Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source)
+## Description de l'oeuvre ou du dispositif multimédia
 
-## Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
+## Explications sur la mise en espace de l'oeuvre ou du dispositif
 
-## Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
+## Liste des composantes et techniques de l'oeuvre ou du dispositif
 
-## Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
+## Liste des éléments nécessaires pour la mise en exposition
 
-## Expérience vécue :
+## Expérience vécue
 
 ## Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
 
