@@ -55,5 +55,9 @@ J'ai beaucoup aimé le fait que je ne devais rien faire pour faire fonctionner l
 Il y avait des éléments qui était pareil sur certains écrans. Personellement, je voudrais faire en sorte que les éléments soient tous différents d'un écran à l'autre.
 
 ## Références
-
+Site de l'artiste
 https://desbiens-desmeules.com/alter-ego/
+
+Cartel de l'oeuvre
+![cartel](medias/cartel.png)
+
