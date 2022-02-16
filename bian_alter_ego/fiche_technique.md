@@ -4,7 +4,9 @@ ALTER EGO
 
 ## Nom de l'artiste ou de la firme
 
-Cadie Desbiens-Desmeules 
+Cadie Desbiens-Desmeules
+![cadie](media/cadie.png)
+photo de Martin Laporte
 
 ## Année de réalisation
 
