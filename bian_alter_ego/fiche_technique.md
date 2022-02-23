@@ -5,9 +5,11 @@ ALTER EGO
 
 ## Nom de l'artiste ou de la firme
 
-Cadie Desbiens-Desmeules
+Cadie Desbiens-Desmeules est une artiste médiatique canadienne qui travaille entre l'art génératif et la performance en direct. Sa pratique est soit spécifique au site, soit basée sur l'installation, couvrant de multiples surfaces ou environnements immersifs. S'appuyant sur son expérience en tant que journaliste, elle pose un regard critique sur les tendances technologiques avec des oeuvres d'art qui suscitent des réflexions et des discussions internes sur la façon dont nous comprenons et agissons avec les nouvelles technologie.
+
+source: cartel de l'oeuvre
 ![cadie](medias/cadie.jpeg)
-photo de Martin Laporte
+photo: Martin Laporte
 
 ## Année de réalisation
 
@@ -61,9 +63,9 @@ J'ai beaucoup aimé le fait que je ne devais rien faire pour faire fonctionner l
 Il y avait des éléments qui était pareil sur certains écrans. Personellement, je voudrais faire en sorte que les éléments soient tous différents d'un écran à l'autre.
 ![ecran](medias/ecran_4.png)
 ## Références
-Site de l'artiste
+Site de l'artiste:
 https://desbiens-desmeules.com/alter-ego/
 
-Cartel de l'oeuvre
+Cartel de l'oeuvre:
 ![cartel](medias/cartel.png)
 
