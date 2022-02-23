@@ -2,7 +2,7 @@
 
 ALTER EGO
 ![vue d'ensemble](medias/vue_d_ensemble.png)
-
+![croquis](medias/croquis.jpg)
 ## Nom de l'artiste ou de la firme
 
 Cadie Desbiens-Desmeules est une artiste médiatique canadienne qui travaille entre l'art génératif et la performance en direct. Sa pratique est soit spécifique au site, soit basée sur l'installation, couvrant de multiples surfaces ou environnements immersifs. S'appuyant sur son expérience en tant que journaliste, elle pose un regard critique sur les tendances technologiques avec des oeuvres d'art qui suscitent des réflexions et des discussions internes sur la façon dont nous comprenons et agissons avec les nouvelles technologie.
