@@ -30,6 +30,7 @@ Centre VOX, 2 rue Sainte-Catherine East, Montreal (QC), H2X 1K4
 L'espace qui sépare un panorama de l'endroit d'où se tiennent les visiteurs est connu sous le nom de << faux terrain >>. La vidéo suit une jeune femme à l'identité mystérieuse à travers des espaces sociaux de Lucerne, en Suisse : le panorama historique Bourbaki, les abris de la protection civile et le Kunstmuseum.
 
 source: cartel
+![cartel](media/cartel.jpg)
 
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif 
 
