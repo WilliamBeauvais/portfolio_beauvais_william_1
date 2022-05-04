@@ -1,6 +1,7 @@
 # Titre de l'oeuvre ou de la réalisation 
 
 Faux Terrain
+
 ![vue d'ensemble](media/faux_terrain.jpg)
 ![croquis](media/croquis.jpg)
 ## Nom de l'artiste ou de la firme
@@ -24,6 +25,7 @@ Centre VOX, 2 rue Sainte-Catherine East, Montreal (QC), H2X 1K4
 ## Date de votre visite 
 
 3 mai 2022 
+
 ![William Beauvais à l'exposition](media/moi.jpg)
 
 ## Description de l'oeuvre ou du dispositif multimédia 
@@ -36,6 +38,7 @@ source: cartel
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif 
 
 C'est dans une pièce toute noir et insonorisée que l'oeuvre est présentée. En arrivant dans la pièce, un détecteur de mouvement nous allume le projecteur. Ensuite, nous pouvons profiter de l'oeuvre grâce au 4 haut-parleurs répartient aux 4 coins de la pièce. Tout ce système est installé au plafond avec des supports.
+
 ![détecteur](media/detecteur.jpg)
 ![projecteur](media/projecteur.jpg)
 ![haut-parleur](media/haut_parleur.jpg)
@@ -59,11 +62,13 @@ En écoutant la vidéo, l'artiste arrive à te faire sentir tout comme le person
 ## Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc. 
 
 Il n'y a aucun geste à poser puisqu'il s'agit d'une oeuvre contemplative.
+
 ![ecran](media/foule.jpg)
 
 ## Ce qui vous a plu, vous a donné des idées et justifications 
 
 J'ai beaucoup aimé le fait que je me sentais comme le personnage. J'aime l'idée de retransmettre l'ambience d'une vidéo dans l'environnement de l'utilisateur.
+
 ![ecran](media/montagnes.jpg)
 
 ## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications 
@@ -75,4 +80,5 @@ Site de l'exposition:
 http://centrevox.ca/exposition/clemens-von-wedemeyer/
 
 Cartel de l'oeuvre:
+
 ![cartel](media/cartel.jpg)
