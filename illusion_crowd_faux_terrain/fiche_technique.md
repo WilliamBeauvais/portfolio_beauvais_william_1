@@ -50,23 +50,27 @@ Une pièces assez grande qui doit être noir et insonorisée. Il doit y avoir de
 
 ## Expérience vécue 
 
+En écoutant la vidéo, l'artiste arrive à te faire sentir tout comme le personnage de l'histoire. Tu te sens totalement comme un spectateur de la foule et de tout ses vices. De plus, le VOX n'est pas souvent plein ce qui permet vraiment à l'utilisateur un vrai sentiment de solitude.
 
 ![ecran](media/fille.jpg)
+
 ## Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc. 
 
 Il n'y a aucun geste à poser puisqu'il s'agit d'une oeuvre contemplative.
 ![ecran](media/foule.jpg)
+
 ## Ce qui vous a plu, vous a donné des idées et justifications 
 
-J'ai beaucoup aimé le fait que je ne devais rien faire pour faire fonctionner l'oeuvre ( oui je suis paresseux ). Le message de l'oeuvre permet de comprendre ce qui se passe sous nos yeux aussi bien sur les écrans que dans notre réalité.
+J'ai beaucoup aimé le fait que je me sentais comme le personnage. J'aime l'idée de retransmettre l'ambience d'une vidéo dans l'environnement de l'utilisateur.
 ![ecran](media/montagnes.jpg)
+
 ## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications 
 
-Il y avait des éléments qui était pareil sur certains écrans. Personellement, je voudrais faire en sorte que les éléments soient tous différents d'un écran à l'autre.
-![ecran](media/ecran_4.png)
+Je trouve que c'était trop long pour le peu de contenu réelement utile. Je pense que 10 minutes auraient été suffisantes pour tout voir sans perdre l'attention de l'utilisateur.
+
 ## Références
-Site de l'artiste:
-https://desbiens-desmeules.com/alter-ego/
+Site de l'exposition:
+http://centrevox.ca/exposition/clemens-von-wedemeyer/
 
 Cartel de l'oeuvre:
-![cartel](media/cartel.png)
+![cartel](media/cartel.jpg)
