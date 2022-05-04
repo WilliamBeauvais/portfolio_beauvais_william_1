@@ -7,29 +7,29 @@ Faux Terrain
 
 Clemens von Wedemeyer
 
-![cadie](medias/cadie.jpeg)
+![clemens](medias/clemens.jpeg)
 photo: Martin Laporte
 
 ## Année de réalisation
 
-2020
+2019
 
 ## Nom de l'exposition ou de l'événement 
 
-Cinquième édition de la biennale internationale d'art numérique 
+The Illusion of a Crowd
 
 ## Lieu de mise en exposition 
 
-ARSENAL CONTEMPORARY ART MONTREAL 2020, rue William, Montréal, H3J 1R8 
+Centre VOX, 2 rue Sainte-Catherine East, Montreal (QC), H2X 1K4
 
 ## Date de votre visite 
 
-9 février 2022 
-![portrait de moi](medias/portrait.png)
+3 mai 2022 
+![moi](medias/moi.jpg)
 
 ## Description de l'oeuvre ou du dispositif multimédia 
 
-Au fur et à mesure que les images sont publiées, elles sont réorganisées pour prendre la forme d'"influenceurs" générés par l'IA. L'idée de l'artiste est de créer des « influenceurs » IA composés d'images individuelles de personnes qui sont souvent engagées dans ce comportement de style influenceur. Comme l'IA est formée à l'aide de l'apprentissage automatique et des visages disponibles en ligne, les visages les plus nombreux sont ceux des célébrités. Les visages composites qui en résultent reflètent les conventions dominantes de la beauté et la façon dont la plate-forme encourage un certain type de contenu. Le fait qu'une IA crée des visages ressemblant à ceux utilisés par les annonceurs pour influencer nos comportements et nos habitudes de consommation, et que ces images soient composées de personnes souvent engagées dans le même comportement d'influenceur, montre à quel point les frontières entre contenu commercial et contenu authentiquement produit sont devenues floues.
+
 
 source: site de l'artiste ( https://desbiens-desmeules.com/alter-ego/ )
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif 
