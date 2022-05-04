@@ -6,9 +6,7 @@ Faux Terrain
 ## Nom de l'artiste ou de la firme
 
 Clemens von Wedemeyer
-
 ![clemens](media/clemens.jpeg)
-photo: Martin Laporte
 
 ## Année de réalisation
 
@@ -25,17 +23,20 @@ Centre VOX, 2 rue Sainte-Catherine East, Montreal (QC), H2X 1K4
 ## Date de votre visite 
 
 3 mai 2022 
-![moi](media/moi.jpg)
+![William Beauvais à l'exposition](media/moi.jpg)
 
 ## Description de l'oeuvre ou du dispositif multimédia 
 
+L'espace qui sépare un panorama de l'endroit d'où se tiennent les visiteurs est connu sous le nom de << faux terrain >>. La vidéo suit une jeune femme à l'identité mystérieuse à travers des espaces sociaux de Lucerne, en Suisse : le panorama historique Bourbaki, les abris de la protection civile et le Kunstmuseum.
 
+source: cartel
 
-source: site de l'artiste ( https://desbiens-desmeules.com/alter-ego/ )
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif 
 
-Il y a cinq écrans plats accrochés à un mur. Toute la pièce est très sombre ce qui permet une vision plus que correct de l'oeuvre. Il y a des cache fils pour faire plus propre et les ordinateurs sont cachés dans un coin de cette pièce.
-![ecran](media/ecran_5.png)
+C'est dans une pièce toute noir et insonorisée que l'oeuvre est présentée. En arrivant dans la pièce, un détecteur de mouvement nous allume le projecteur. Ensuite, nous pouvons profiter de l'oeuvre grâce au 4 haut-parleurs répartient aux 4 coins de la pièce. Tout ce système est installé au plafond avec des supports.
+![détecteur](media/detecteur.jpg)
+![projecteur](media/projecteur.jpg)
+![haut-parleur](media/haut_parleur.jpg)
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif 
 
 5 écrants plats et 2 ordinateurs.
