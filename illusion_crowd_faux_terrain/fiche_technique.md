@@ -1,7 +1,7 @@
 # Titre de l'oeuvre ou de la réalisation 
 
 Faux Terrain
-![vue d'ensemble](medias/vue_d_ensemble.png)
+![vue d'ensemble](media/faux_terrain.jpg)
 ![croquis](media/croquis.jpg)
 ## Nom de l'artiste ou de la firme
 
@@ -39,26 +39,27 @@ C'est dans une pièce toute noir et insonorisée que l'oeuvre est présentée. E
 ![haut-parleur](media/haut_parleur.jpg)
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif 
 
-5 écrants plats et 2 ordinateurs.
-![ecran](media/ecran_1.png)
+1 projecteur
+1 détecteur de mouvement
+4 haut-parleur
+1 ordinateur
 
 ## Liste des éléments nécessaires pour la mise en exposition 
 
-Cinq fils et des caches-fils qui descendent de chaque écrans pour ce rendre vers l'ordinateur.
-![branchement](media/branchement_1.png)
-![branchement](media/branchement_2.png)
+Une pièces assez grande qui doit être noir et insonorisée. Il doit y avoir des support au plafond sur lesquels tout les fils sont attachés.
+
 ## Expérience vécue 
 
-Je me suis questionner sur notre utilisation des réseaux sociaux. En voyant tout ces influenceurs comme des clones qui se multiplient, j'ai réalisé que nous passons beaucoup trop de temps à idéaliser ces gens qui semble si parfaits
-![ecran](media/ecran_2.png)
+
+![ecran](media/fille.jpg)
 ## Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc. 
 
 Il n'y a aucun geste à poser puisqu'il s'agit d'une oeuvre contemplative.
-![ecran](media/ecran_3.png)
+![ecran](media/foule.jpg)
 ## Ce qui vous a plu, vous a donné des idées et justifications 
 
 J'ai beaucoup aimé le fait que je ne devais rien faire pour faire fonctionner l'oeuvre ( oui je suis paresseux ). Le message de l'oeuvre permet de comprendre ce qui se passe sous nos yeux aussi bien sur les écrans que dans notre réalité.
-![ecran](media/ecran_3.png)
+![ecran](media/montagnes.jpg)
 ## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications 
 
 Il y avait des éléments qui était pareil sur certains écrans. Personellement, je voudrais faire en sorte que les éléments soient tous différents d'un écran à l'autre.
