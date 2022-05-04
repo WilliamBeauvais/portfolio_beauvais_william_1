@@ -6,6 +6,7 @@ Faux Terrain
 ## Nom de l'artiste ou de la firme
 
 Clemens von Wedemeyer
+
 ![clemens](media/clemens.jpeg)
 
 ## Année de réalisation
