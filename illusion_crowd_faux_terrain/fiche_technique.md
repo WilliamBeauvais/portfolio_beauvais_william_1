@@ -22,7 +22,7 @@ The Illusion of a Crowd
 
 Centre VOX, 2 rue Sainte-Catherine East, Montreal (QC), H2X 1K4
 
-## Date de votre visite 
+## Date de ma visite 
 
 3 mai 2022 
 
@@ -59,19 +59,19 @@ En écoutant la vidéo, l'artiste arrive à te faire sentir tout comme le person
 
 ![ecran](media/fille.jpg)
 
-## Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc. 
+## Description de mon expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc. 
 
 Il n'y a aucun geste à poser puisqu'il s'agit d'une oeuvre contemplative.
 
 ![ecran](media/foule.jpg)
 
-## Ce qui vous a plu, vous a donné des idées et justifications 
+## Ce qui m'a plu, m'a a donné des idées et justifications 
 
 J'ai beaucoup aimé le fait que je me sentais comme le personnage. J'aime l'idée de retransmettre l'ambience d'une vidéo dans l'environnement de l'utilisateur.
 
 ![ecran](media/montagnes.jpg)
 
-## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications 
+## Aspect que je ne souhaiterais pas retenir pour mes propres créations ou que je ferais autrement et justifications 
 
 Je trouve que c'était trop long pour le peu de contenu réelement utile. Je pense que 10 minutes auraient été suffisantes pour tout voir sans perdre l'attention de l'utilisateur.
 
