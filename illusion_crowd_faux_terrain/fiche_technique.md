@@ -65,7 +65,7 @@ Il n'y a aucun geste à poser puisqu'il s'agit d'une oeuvre contemplative.
 
 ![ecran](media/foule.jpg)
 
-## Ce qui m'a plu, m'a a donné des idées et justifications 
+## Ce qui m'a plu, m'a donné des idées et justifications 
 
 J'ai beaucoup aimé le fait que je me sentais comme le personnage. J'aime l'idée de retransmettre l'ambience d'une vidéo dans l'environnement de l'utilisateur.
 
